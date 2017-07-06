@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2369179747",
+    "firebase_url": "https://notification-17956.firebaseio.com",
+    "project_id": "notification-17956",
+    "storage_bucket": "notification-17956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2369179747:android:72bce8d4a2d544db",
+        "android_client_info": {
+          "package_name": "com.dishq.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2369179747-n79o4gu9u67nlhivjfdith1o1iulicrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dishq.notification",
+            "certificate_hash": "8a2e2e244adea40e44ee8c424441bed6280fa88f"
+          }
+        },
+        {
+          "client_id": "2369179747-dgfp6ul4bovqkahmb1vta14ula56536e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU0s2cPiSBnLLtMppgDEGIyq4GGSB-gEk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2369179747-dgfp6ul4bovqkahmb1vta14ula56536e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
